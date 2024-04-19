@@ -27,8 +27,11 @@ rm -rf .git
 git init
 
 # Update all npm packages to their latest versions
-npm install -g npm-check-updates
-ncu -u
+# this breaks things sometimes, so commenting out for now
+# npm install -g npm-check-updates
+# ncu -u
+
+# INSTALL
 yarn install
 
 # Make initial commit
