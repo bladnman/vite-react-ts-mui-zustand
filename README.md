@@ -10,7 +10,7 @@ It will always be cool. Cool cool cool.
 
 ```bash
 # change my-cool-app to the name of your new app
-git clone bladnman/vite-react-ts-mui-zustand.git my-cool-app
+git clone https://github.com/bladnman/vite-react-ts-mui-zustand.git my-cool-app
 cd my-cool-app
 ```
 
